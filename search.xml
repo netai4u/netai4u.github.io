@@ -13,14 +13,14 @@
       
       <categories>
           
-          <category> 测试文章 </category>
+          <category> 类别2 </category>
           
       </categories>
       
       
         <tags>
             
-            <tag> 测试博文 </tag>
+            <tag> 标签1 </tag>
             
         </tags>
       
@@ -38,14 +38,14 @@
       
       <categories>
           
-          <category> 类别 </category>
+          <category> 类别1 </category>
           
       </categories>
       
       
         <tags>
             
-            <tag> 标签 </tag>
+            <tag> 标签2 </tag>
             
         </tags>
       
